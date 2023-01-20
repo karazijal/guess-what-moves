@@ -57,7 +57,7 @@ See [`checkpoints`](checkpoints) folder for available checkpoints.
 
 ### Acknowledgements
 
-This repository builds on [MaskFormer](https://github.com/facebookresearch/MaskFormer), [MotionGrouping](https://github.com/charigyang/motiongrouping) and [unsupervised-image-segmentation](https://github.com/lukemelas/unsupervised-image-segmentation).
+This repository builds on [MaskFormer](https://github.com/facebookresearch/MaskFormer), [MotionGrouping](https://github.com/charigyang/motiongrouping), [unsupervised-image-segmentation](https://github.com/lukemelas/unsupervised-image-segmentation), and [dino-vit-features](https://github.com/ShirAmir/dino-vit-features).
 
 ### Citation   
 ```
