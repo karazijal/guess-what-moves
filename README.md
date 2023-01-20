@@ -27,7 +27,7 @@ yes | python -m pip install 'git+https://github.com/facebookresearch/detectron2.
 
 #### Data Preparation
 
-Datasets should be placed under `/src/data/<dataset_name>`, e.g. `/src/data/DAVIS2016`.
+Datasets should be placed under `data/<dataset_name>`, e.g. `data/DAVIS2016`.
 
 * For video segmentation we follow the dataset preparation steps of [MotionGrouping](https://github.com/charigyang/motiongrouping).
 * For image segmentation we follow the dataset preparation steps of [unsupervised-image-segmentation](https://github.com/lukemelas/unsupervised-image-segmentation).
